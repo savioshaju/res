@@ -2,7 +2,7 @@ const students =
 [
   {
     "name": "Aarav Sharma",
-    "class": "12A",
+    "class": "1A",
     "roll_number": 1,
     "email": "aarav.sharma01@example.com",
     "phone": "+91-9876543210",
@@ -20,7 +20,7 @@ const students =
   },
   {
     "name": "Priya Patel",
-    "class": "12B",
+    "class": "1B",
     "roll_number": 2,
     "email": "priya.patel02@example.com",
     "phone": "+91-8877665544",
@@ -38,7 +38,7 @@ const students =
   },
   {
     "name": "Vikram Singh",
-    "class": "12A",
+    "class": "1A",
     "roll_number": 3,
     "email": "vikram.singh03@example.com",
     "phone": "+91-7766554433",
@@ -56,7 +56,7 @@ const students =
   },
   {
     "name": "Ananya Reddy",
-    "class": "12B",
+    "class": "1B",
     "roll_number": 4,
     "email": "ananya.reddy04@example.com",
     "phone": "+91-9988776655",
@@ -74,7 +74,7 @@ const students =
   },
   {
     "name": "Rohan Kumar",
-    "class": "12A",
+    "class": "2A",
     "roll_number": 5,
     "email": "rohan.kumar05@example.com",
     "phone": "+91-8899001122",
@@ -92,7 +92,7 @@ const students =
   },
   {
     "name": "Neha Verma",
-    "class": "12B",
+    "class": "2B",
     "roll_number": 6,
     "email": "neha.verma06@example.com",
     "phone": "+91-7788990011",
@@ -110,7 +110,7 @@ const students =
   },
   {
     "name": "Arjun Joshi",
-    "class": "12A",
+    "class": "2A",
     "roll_number": 7,
     "email": "arjun.joshi07@example.com",
     "phone": "+91-9922113344",
@@ -128,7 +128,7 @@ const students =
   },
   {
     "name": "Shreya Gupta",
-    "class": "12B",
+    "class": "3B",
     "roll_number": 8,
     "email": "shreya.gupta08@example.com",
     "phone": "+91-8811223344",
@@ -146,7 +146,7 @@ const students =
   },
   {
     "name": "Karan Malhotra",
-    "class": "12A",
+    "class": "3A",
     "roll_number": 9,
     "email": "karan.malhotra09@example.com",
     "phone": "+91-7700112233",
@@ -164,7 +164,7 @@ const students =
   },
   {
     "name": "Divya Choudhury",
-    "class": "12B",
+    "class": "3B",
     "roll_number": 10,
     "email": "divya.choudhury10@example.com",
     "phone": "+91-8990011223",
@@ -182,7 +182,7 @@ const students =
   },
   {
     "name": "Rahul Mehta",
-    "class": "12A",
+    "class": "3A",
     "roll_number": 11,
     "email": "rahul.mehta11@example.com",
     "phone": "+91-9871122334",
@@ -200,7 +200,7 @@ const students =
   },
   {
     "name": "Pooja Iyer",
-    "class": "12B",
+    "class": "3B",
     "roll_number": 12,
     "email": "pooja.iyer12@example.com",
     "phone": "+91-8765432190",
@@ -218,7 +218,7 @@ const students =
   },
   {
     "name": "Siddharth Rao",
-    "class": "12A",
+    "class": "4A",
     "roll_number": 13,
     "email": "siddharth.rao13@example.com",
     "phone": "+91-7654321987",
@@ -236,7 +236,7 @@ const students =
   },
   {
     "name": "Anjali Nair",
-    "class": "12B",
+    "class": "4B",
     "roll_number": 14,
     "email": "anjali.nair14@example.com",
     "phone": "+91-6543219876",
@@ -254,7 +254,7 @@ const students =
   },
   {
     "name": "Vishal Desai",
-    "class": "12A",
+    "class": "4A",
     "roll_number": 15,
     "email": "vishal.desai15@example.com",
     "phone": "+91-9432108765",
@@ -272,7 +272,7 @@ const students =
   },
   {
     "name": "Swati Mishra",
-    "class": "12B",
+    "class": "4B",
     "roll_number": 16,
     "email": "swati.mishra16@example.com",
     "phone": "+91-8321456790",
@@ -290,7 +290,7 @@ const students =
   },
   {
     "name": "Rajiv Khanna",
-    "class": "12A",
+    "class": "4A",
     "roll_number": 17,
     "email": "rajiv.khanna17@example.com",
     "phone": "+91-7210345689",
@@ -308,7 +308,7 @@ const students =
   },
   {
     "name": "Meera Srinivasan",
-    "class": "12B",
+    "class": "4B",
     "roll_number": 18,
     "email": "meera.srinivasan18@example.com",
     "phone": "+91-6109234578",
@@ -326,7 +326,7 @@ const students =
   },
   {
     "name": "Akash Bhatia",
-    "class": "12A",
+    "class": "5A",
     "roll_number": 19,
     "email": "akash.bhatia19@example.com",
     "phone": "+91-5098123467",
@@ -344,7 +344,7 @@ const students =
   },
   {
     "name": "Nandini Kapoor",
-    "class": "12B",
+    "class": "5B",
     "roll_number": 20,
     "email": "nandini.kapoor20@example.com",
     "phone": "+91-4987012356",
@@ -362,7 +362,7 @@ const students =
   },
   {
     "name": "Harsh Tripathi",
-    "class": "12A",
+    "class": "5A",
     "roll_number": 21,
     "email": "harsh.tripathi21@example.com",
     "phone": "+91-9876543201",
@@ -380,7 +380,7 @@ const students =
   },
   {
     "name": "Ishita Reddy",
-    "class": "12B",
+    "class": "5B",
     "roll_number": 22,
     "email": "ishita.reddy22@example.com",
     "phone": "+91-8765432109",
@@ -398,7 +398,7 @@ const students =
   },
   {
     "name": "Manish Agarwal",
-    "class": "12A",
+    "class": "5A",
     "roll_number": 23,
     "email": "manish.agarwal23@example.com",
     "phone": "+91-7654321098",
@@ -416,7 +416,7 @@ const students =
   },
   {
     "name": "Tanvi Shah",
-    "class": "12B",
+    "class": "5B",
     "roll_number": 24,
     "email": "tanvi.shah24@example.com",
     "phone": "+91-6543210987",
@@ -434,7 +434,7 @@ const students =
   },
   {
     "name": "Abhishek Dubey",
-    "class": "12A",
+    "class": "5A",
     "roll_number": 25,
     "email": "abhishek.dubey25@example.com",
     "phone": "+91-5432109876",
@@ -452,7 +452,7 @@ const students =
   },
   {
     "name": "Sneha Menon",
-    "class": "12B",
+    "class": "5B",
     "roll_number": 26,
     "email": "sneha.menon26@example.com",
     "phone": "+91-4321098765",
@@ -470,7 +470,7 @@ const students =
   },
   {
     "name": "Varun Saxena",
-    "class": "12A",
+    "class": "6A",
     "roll_number": 27,
     "email": "varun.saxena27@example.com",
     "phone": "+91-3210987654",
@@ -488,7 +488,7 @@ const students =
   },
   {
     "name": "Kriti Malhotra",
-    "class": "12B",
+    "class": "6B",
     "roll_number": 28,
     "email": "kriti.malhotra28@example.com",
     "phone": "+91-2109876543",
@@ -506,7 +506,7 @@ const students =
   },
   {
     "name": "Rishabh Jain",
-    "class": "12A",
+    "class": "6A",
     "roll_number": 29,
     "email": "rishabh.jain29@example.com",
     "phone": "+91-1098765432",
@@ -524,7 +524,7 @@ const students =
   },
   {
     "name": "Shivani Iyer",
-    "class": "12B",
+    "class": "6B",
     "roll_number": 30,
     "email": "shivani.iyer30@example.com",
     "phone": "+91-9988776655",
@@ -542,7 +542,7 @@ const students =
   },
   {
     "name": "Aditya Rao",
-    "class": "12A",
+    "class": "6A",
     "roll_number": 31,
     "email": "aditya.rao31@example.com",
     "phone": "+91-8877665544",
@@ -560,7 +560,7 @@ const students =
   },
   {
     "name": "Pooja Nair",
-    "class": "12B",
+    "class": "6B",
     "roll_number": 32,
     "email": "pooja.nair32@example.com",
     "phone": "+91-7766554433",
@@ -578,7 +578,7 @@ const students =
   },
   {
     "name": "Vivek Deshpande",
-    "class": "12A",
+    "class": "6A",
     "roll_number": 33,
     "email": "vivek.deshpande33@example.com",
     "phone": "+91-6655443322",
@@ -596,7 +596,7 @@ const students =
   },
   {
     "name": "Anita Sharma",
-    "class": "12B",
+    "class": "7B",
     "roll_number": 34,
     "email": "anita.sharma34@example.com",
     "phone": "+91-5544332211",
@@ -758,7 +758,7 @@ const students =
   },
   {
     "name": "Vikram Mehta",
-    "class": "12A",
+    "class": "8A",
     "roll_number": 43,
     "email": "vikram.mehta43@example.com",
     "phone": "+91-5566443322",
@@ -776,7 +776,7 @@ const students =
   },
   {
     "name": "Sonia Iyer",
-    "class": "12B",
+    "class": "8B",
     "roll_number": 44,
     "email": "sonia.iyer44@example.com",
     "phone": "+91-4455332211",
@@ -794,7 +794,7 @@ const students =
   },
   {
     "name": "Rahul Rao",
-    "class": "12A",
+    "class": "8A",
     "roll_number": 45,
     "email": "rahul.rao45@example.com",
     "phone": "+91-3344221100",
@@ -812,7 +812,7 @@ const students =
   },
   {
     "name": "Priyanka Nair",
-    "class": "12B",
+    "class": "8B",
     "roll_number": 46,
     "email": "priyanka.nair46@example.com",
     "phone": "+91-2233110099",
@@ -830,7 +830,7 @@ const students =
   },
   {
     "name": "Amit Desai",
-    "class": "12A",
+    "class": "8A",
     "roll_number": 47,
     "email": "amit.desai47@example.com",
     "phone": "+91-1122009988",
@@ -848,7 +848,7 @@ const students =
   },
   {
     "name": "Kavita Mishra",
-    "class": "12B",
+    "class": "8B",
     "roll_number": 48,
     "email": "kavita.mishra48@example.com",
     "phone": "+91-9900112233",
@@ -866,7 +866,7 @@ const students =
   },
   {
     "name": "Rajesh Khanna",
-    "class": "12A",
+    "class": "6A",
     "roll_number": 49,
     "email": "rajesh.khanna49@example.com",
     "phone": "+91-8811223344",
@@ -884,7 +884,7 @@ const students =
   },
   {
     "name": "Deepak Srinivasan",
-    "class": "12B",
+    "class": "6B",
     "roll_number": 50,
     "email": "deepak.srinivasan50@example.com",
     "phone": "+91-7722334455",
@@ -902,7 +902,7 @@ const students =
   },
   {
     "name": "Sunita Bhatia",
-    "class": "12A",
+    "class": "6A",
     "roll_number": 51,
     "email": "sunita.bhatia51@example.com",
     "phone": "+91-6633445566",
@@ -920,7 +920,7 @@ const students =
   },
   {
     "name": "Vijay Kapoor",
-    "class": "12B",
+    "class": "6B",
     "roll_number": 52,
     "email": "vijay.kapoor52@example.com",
     "phone": "+91-5544556677",
@@ -938,7 +938,7 @@ const students =
   },
   {
     "name": "Pooja Tripathi",
-    "class": "12A",
+    "class": "6A",
     "roll_number": 53,
     "email": "pooja.tripathi53@example.com",
     "phone": "+91-4455667788",
@@ -956,7 +956,7 @@ const students =
   },
   {
     "name": "Raj Reddy",
-    "class": "12B",
+    "class": "6B",
     "roll_number": 54,
     "email": "raj.reddy54@example.com",
     "phone": "+91-3366778899",
@@ -974,7 +974,7 @@ const students =
   },
   {
     "name": "Anjali Agarwal",
-    "class": "12A",
+    "class": "6A",
     "roll_number": 55,
     "email": "anjali.agarwal55@example.com",
     "phone": "+91-2277889900",
@@ -992,7 +992,7 @@ const students =
   },
   {
     "name": "Ravi Shah",
-    "class": "12B",
+    "class": "6B",
     "roll_number": 56,
     "email": "ravi.shah56@example.com",
     "phone": "+91-1188990011",
@@ -1010,7 +1010,7 @@ const students =
   },
   {
     "name": "Smita Dubey",
-    "class": "12A",
+    "class": "6A",
     "roll_number": 57,
     "email": "smita.dubey57@example.com",
     "phone": "+91-9900112233",
@@ -1028,7 +1028,7 @@ const students =
   },
   {
     "name": "Nitin Menon",
-    "class": "12B",
+    "class": "6B",
     "roll_number": 58,
     "email": "nitin.menon58@example.com",
     "phone": "+91-8811223344",
@@ -1046,7 +1046,7 @@ const students =
   },
   {
     "name": "Divya Saxena",
-    "class": "12A",
+    "class": "8A",
     "roll_number": 59,
     "email": "divya.saxena59@example.com",
     "phone": "+91-7722334455",
@@ -1064,7 +1064,7 @@ const students =
   },
   {
     "name": "Karan Malhotra",
-    "class": "12B",
+    "class": "8B",
     "roll_number": 60,
     "email": "karan.malhotra60@example.com",
     "phone": "+91-6633445566",
@@ -1082,7 +1082,7 @@ const students =
   },
   {
     "name": "Priya Jain",
-    "class": "12A",
+    "class": "8A",
     "roll_number": 61,
     "email": "priya.jain61@example.com",
     "phone": "+91-5544556677",
@@ -1100,7 +1100,7 @@ const students =
   },
   {
     "name": "Vishal Iyer",
-    "class": "12B",
+    "class": "9B",
     "roll_number": 62,
     "email": "vishal.iyer62@example.com",
     "phone": "+91-4455667788",
@@ -1118,7 +1118,7 @@ const students =
   },
   {
     "name": "Anita Rao",
-    "class": "12A",
+    "class": "9A",
     "roll_number": 63,
     "email": "anita.rao63@example.com",
     "phone": "+91-3366778899",
@@ -1136,7 +1136,7 @@ const students =
   },
   {
     "name": "Rohit Nair",
-    "class": "12B",
+    "class": "9B",
     "roll_number": 64,
     "email": "rohit.nair64@example.com",
     "phone": "+91-2277889900",
@@ -1154,7 +1154,7 @@ const students =
   },
   {
     "name": "Shweta Deshpande",
-    "class": "12A",
+    "class": "9A",
     "roll_number": 65,
     "email": "shweta.deshpande65@example.com",
     "phone": "+91-1188990011",
@@ -1172,7 +1172,7 @@ const students =
   },
   {
     "name": "Aryan Sharma",
-    "class": "12B",
+    "class": "9B",
     "roll_number": 66,
     "email": "aryan.sharma66@example.com",
     "phone": "+91-9900112233",
@@ -1190,7 +1190,7 @@ const students =
   },
   {
     "name": "Neha Patel",
-    "class": "12A",
+    "class": "9A",
     "roll_number": 67,
     "email": "neha.patel67@example.com",
     "phone": "+91-8811223344",
@@ -1208,7 +1208,7 @@ const students =
   },
   {
     "name": "Arjun Singh",
-    "class": "12B",
+    "class": "9B",
     "roll_number": 68,
     "email": "arjun.singh68@example.com",
     "phone": "+91-7722334455",
@@ -1226,7 +1226,7 @@ const students =
   },
   {
     "name": "Kavya Verma",
-    "class": "12A",
+    "class": "9A",
     "roll_number": 69,
     "email": "kavya.verma69@example.com",
     "phone": "+91-6633445566",
@@ -1244,7 +1244,7 @@ const students =
   },
   {
     "name": "Rajat Reddy",
-    "class": "12B",
+    "class": "9B",
     "roll_number": 70,
     "email": "rajat.reddy70@example.com",
     "phone": "+91-5544556677",
@@ -1262,7 +1262,7 @@ const students =
   },
   {
     "name": "Sonia Kumar",
-    "class": "12A",
+    "class": "10A",
     "roll_number": 71,
     "email": "sonia.kumar71@example.com",
     "phone": "+91-4455667788",
@@ -1280,7 +1280,7 @@ const students =
   },
   {
     "name": "Vivek Joshi",
-    "class": "12B",
+    "class": "10B",
     "roll_number": 72,
     "email": "vivek.joshi72@example.com",
     "phone": "+91-3366778899",
@@ -1298,7 +1298,7 @@ const students =
   },
   {
     "name": "Anjali Gupta",
-    "class": "12A",
+    "class": "10A",
     "roll_number": 73,
     "email": "anjali.gupta73@example.com",
     "phone": "+91-2277889900",
@@ -1316,7 +1316,7 @@ const students =
   },
   {
     "name": "Rishi Choudhury",
-    "class": "12B",
+    "class": "10B",
     "roll_number": 74,
     "email": "rishi.choudhury74@example.com",
     "phone": "+91-1188990011",
@@ -1334,7 +1334,7 @@ const students =
   },
   {
     "name": "Pooja Mehta",
-    "class": "12A",
+    "class": "10A",
     "roll_number": 75,
     "email": "pooja.mehta75@example.com",
     "phone": "+91-9900112233",
@@ -1352,7 +1352,7 @@ const students =
   },
   {
     "name": "Amit Iyer",
-    "class": "12B",
+    "class": "10B",
     "roll_number": 76,
     "email": "amit.iyer76@example.com",
     "phone": "+91-8811223344",
@@ -1370,7 +1370,7 @@ const students =
   },
   {
     "name": "Kriti Rao",
-    "class": "12A",
+    "class": "6A",
     "roll_number": 77,
     "email": "kriti.rao77@example.com",
     "phone": "+91-7722334455",
@@ -1388,7 +1388,7 @@ const students =
   },
   {
     "name": "Rahul Nair",
-    "class": "12B",
+    "class": "11B",
     "roll_number": 78,
     "email": "rahul.nair78@example.com",
     "phone": "+91-6633445566",
@@ -1406,7 +1406,7 @@ const students =
   },
   {
     "name": "Shilpa Desai",
-    "class": "12A",
+    "class": "11A",
     "roll_number": 79,
     "email": "shilpa.desai79@example.com",
     "phone": "+91-5544556677",
@@ -1424,7 +1424,7 @@ const students =
   },
   {
     "name": "Vinod Mishra",
-    "class": "12B",
+    "class": "11B",
     "roll_number": 80,
     "email": "vinod.mishra80@example.com",
     "phone": "+91-4455667788",
@@ -1442,7 +1442,7 @@ const students =
   },
   {
     "name": "Anu Khanna",
-    "class": "12A",
+    "class": "11A",
     "roll_number": 81,
     "email": "anu.khanna81@example.com",
     "phone": "+91-3366778899",
@@ -1460,7 +1460,7 @@ const students =
   },
   {
     "name": "Raj Srinivasan",
-    "class": "12B",
+    "class": "11B",
     "roll_number": 82,
     "email": "raj.srinivasan82@example.com",
     "phone": "+91-2277889900",
@@ -1478,7 +1478,7 @@ const students =
   },
   {
     "name": "Divya Bhatia",
-    "class": "12A",
+    "class": "11A",
     "roll_number": 83,
     "email": "divya.bhatia83@example.com",
     "phone": "+91-1188990011",
@@ -1496,7 +1496,7 @@ const students =
   },
   {
     "name": "Karan Kapoor",
-    "class": "12B",
+    "class": "11B",
     "roll_number": 84,
     "email": "karan.kapoor84@example.com",
     "phone": "+91-9900112233",
@@ -1514,7 +1514,7 @@ const students =
   },
   {
     "name": "Neha Tripathi",
-    "class": "12A",
+    "class": "11A",
     "roll_number": 85,
     "email": "neha.tripathi85@example.com",
     "phone": "+91-8811223344",
@@ -1532,7 +1532,7 @@ const students =
   },
   {
     "name": "Vikram Reddy",
-    "class": "12B",
+    "class": "6B",
     "roll_number": 86,
     "email": "vikram.reddy86@example.com",
     "phone": "+91-7722334455",
@@ -1550,7 +1550,7 @@ const students =
   },
   {
     "name": "Ananya Agarwal",
-    "class": "12A",
+    "class": "6A",
     "roll_number": 87,
     "email": "ananya.agarwal87@example.com",
     "phone": "+91-6633445566",
@@ -1568,7 +1568,7 @@ const students =
   },
   {
     "name": "Rohit Shah",
-    "class": "12B",
+    "class": "7B",
     "roll_number": 88,
     "email": "rohit.shah88@example.com",
     "phone": "+91-5544556677",
@@ -1586,7 +1586,7 @@ const students =
   },
   {
     "name": "Priya Dubey",
-    "class": "12A",
+    "class": "7A",
     "roll_number": 89,
     "email": "priya.dubey89@example.com",
     "phone": "+91-4455667788",
@@ -1604,7 +1604,7 @@ const students =
   },
   {
     "name": "Arjun Menon",
-    "class": "12B",
+    "class": "7B",
     "roll_number": 90,
     "email": "arjun.menon90@example.com",
     "phone": "+91-3366778899",
@@ -1622,7 +1622,7 @@ const students =
   },
   {
     "name": "Kavita Saxena",
-    "class": "12A",
+    "class": "7A",
     "roll_number": 91,
     "email": "kavita.saxena91@example.com",
     "phone": "+91-2277889900",
@@ -1640,7 +1640,7 @@ const students =
   },
   {
     "name": "Raj Malhotra",
-    "class": "12B",
+    "class": "7B",
     "roll_number": 92,
     "email": "raj.malhotra92@example.com",
     "phone": "+91-1188990011",
@@ -1658,7 +1658,7 @@ const students =
   },
   {
     "name": "Sonia Jain",
-    "class": "12A",
+    "class": "7A",
     "roll_number": 93,
     "email": "sonia.jain93@example.com",
     "phone": "+91-9900112233",
@@ -1676,7 +1676,7 @@ const students =
   },
   {
     "name": "Vishal Iyer",
-    "class": "12B",
+    "class": "7B",
     "roll_number": 94,
     "email": "vishal.iyer94@example.com",
     "phone": "+91-8811223344",
@@ -1694,7 +1694,7 @@ const students =
   },
   {
     "name": "Anita Rao",
-    "class": "12A",
+    "class": "7A",
     "roll_number": 95,
     "email": "anita.rao95@example.com",
     "phone": "+91-7722334455",
@@ -1712,7 +1712,7 @@ const students =
   },
   {
     "name": "Rohit Nair",
-    "class": "12B",
+    "class": "7B",
     "roll_number": 96,
     "email": "rohit.nair96@example.com",
     "phone": "+91-6633445566",
@@ -1730,7 +1730,7 @@ const students =
   },
   {
     "name": "Shweta Deshpande",
-    "class": "12A",
+    "class": "7A",
     "roll_number": 97,
     "email": "shweta.deshpande97@example.com",
     "phone": "+91-5544556677",
@@ -1748,7 +1748,7 @@ const students =
   },
   {
     "name": "Aryan Sharma",
-    "class": "12B",
+    "class": "7B",
     "roll_number": 98,
     "email": "aryan.sharma98@example.com",
     "phone": "+91-4455667788",
@@ -1766,7 +1766,7 @@ const students =
   },
   {
     "name": "Neha Patel",
-    "class": "12A",
+    "class": "7A",
     "roll_number": 99,
     "email": "neha.patel99@example.com",
     "phone": "+91-3366778899",
@@ -1784,7 +1784,7 @@ const students =
   },
   {
     "name": "Divya Mishra",
-    "class": "12B",
+    "class": "7B",
     "roll_number": 100,
     "email": "divya.mishra100@example.com",
     "phone": "+91-7001234567",
